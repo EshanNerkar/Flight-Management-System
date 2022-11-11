@@ -1,0 +1,6 @@
+bt4 = Button(root,text="  SERVICES  ",image=img4,compound="top",bg="#247676",border=5,fg="white").grid(row=4,column=0,ipadx=75,ipady=20,padx=30,pady=10,)
+# bt5 = Button(root,text="SALES",image=img5,compound="top",bg="#247676",border=5,fg="white").grid(row=4,column=1,ipadx=82,ipady=20,padx=30,pady=10)
+# bt6 = Button(root,text="DISCUSSION FORUMS",image=img6,compound="top",bg="#247676",border=5,fg="white").grid(row=4,column=2,ipadx=55,ipady=20,padx=10,pady=10)
+# bt7 = Button(root,text="RESUMES",image=img7,compound="top",bg="#247676",border=5,fg="white").grid(row=5,column=0,ipadx=82,ipady=20,padx=10,pady=10)
+# bt8 = Button(root,text="GIGS",image=img8,compound="top",bg="#247676",border=5,fg="white").grid(row=5,column=1,ipadx=78,ipady=20,padx=10,pady=10)
+# bt9 = Button(root,text="EVENT CALENDAR",image=img9,compound="top",bg="#247676",border=5,fg="white").grid(row=5,column=2,ipadx=60,ipady=20,padx=10,pady=10)
